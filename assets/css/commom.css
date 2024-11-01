@@ -1,0 +1,33 @@
+#ImageMain {
+    width: 630px;
+    margin: 0 auto;
+    margin-top: 100px;
+    background-color: #0a001f;
+}
+
+.gipText {
+
+    border: 1px solid #ccc;
+    padding: 2px;
+    font-size: 1.2em;
+    color: #444;
+    width: 200px;
+
+}
+#gifsearch_Btn {
+
+    border: 1px solid #ccc;
+    padding: 2px;
+    font-size: 1.2em;
+    color: #444;
+    width: 200px;
+
+}
+
+.select_default {
+    border: 1px solid #ccc;
+    padding: 2px;
+    font-size: 1.2em;
+    color: #444;
+    width: 100px;
+}
